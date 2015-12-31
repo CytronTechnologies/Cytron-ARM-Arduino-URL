@@ -14,7 +14,7 @@
           "architecture": "arm",
           "version": "1.0.0",
           "category": "Cytron",
-          "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-ARM-Arduino-URL/master/cytron-arm.tar.bz2",
+          "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/cytron-arm.tar.bz2",
           "archiveFileName": "cytron-arm.tar.bz2",
           "checksum": "SHA-256:56581CF5A59C0690787CA9E3F0DC12DABFB0D6F6E8747CC5B0E65470D12C4CB5",
           "size": "2605746",
@@ -36,7 +36,7 @@
             {
               "host": "i686-mingw32",
               "archiveFileName": "arm-none-eabi-gcc.tar.bz2",
-              "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-ARM-Arduino-URL/master/arm-none-eabi-gcc.tar.bz2",
+              "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/arm-none-eabi-gcc.tar.bz2",
               "checksum": "SHA-256:6F20D761ADBE17DD3FD47820C3837B2B1B7FB964C0DC4FF78D4D8F56B246AFC2",
 
               "size": "74468122"
@@ -50,7 +50,7 @@
             {
               "host": "i686-mingw32",
               "archiveFileName": "nulinkburn.tar.bz2",
-              "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-ARM-Arduino-URL/master/nulinkburn.tar.bz2",
+              "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/nulinkburn.tar.bz2",
               "checksum": "SHA-256:7B01B5150379F907BB1ABCE82BC3D50F8962167BDF69DD9721C79005E426CDE8",
 
               "size": "908735"
