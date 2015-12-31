@@ -16,8 +16,8 @@
           "category": "Cytron",
           "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-ARM-Arduino-URL/master/cytron-arm.tar.bz2",
           "archiveFileName": "cytron-arm.tar.bz2",
-          "checksum": "SHA-256:32B0FBDBB08B06040E2E5DAF5A6E696595707235C88F780CD3D0182CCFB12ACD",
-          "size": "2605775",
+          "checksum": "SHA-256:56581CF5A59C0690787CA9E3F0DC12DABFB0D6F6E8747CC5B0E65470D12C4CB5",
+          "size": "2605746",
           "help": {
             "online": "http://forum.cytron.com.my/"
           },
@@ -25,13 +25,25 @@
             {
               "name": "CT ARM"
             }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "cytron",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "cytron",
+              "name": "nulinkburn",
+              "version": "1.0.0"
+            }
           ]
         }
       ],
       "tools": [
         {
           "name": "arm-none-eabi-gcc",
-          "version": "1.0.0",
+          "version": "4.8.3-2014q1",
           "systems": [
             {
               "host": "i686-mingw32",
