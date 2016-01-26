@@ -12,12 +12,12 @@
         {
           "name": "Cytron ARM Boards",
           "architecture": "arm",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "Cytron",
           "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/cytron-arm.tar.bz2",
           "archiveFileName": "cytron-arm.tar.bz2",
-          "checksum": "SHA-256:56581CF5A59C0690787CA9E3F0DC12DABFB0D6F6E8747CC5B0E65470D12C4CB5",
-          "size": "2605746",
+          "checksum": "SHA-256:A20BFF9EAE85BC1504B19A6A24894AD57E2EC1265371879696CD7399A85BF2C9",
+          "size": "2712296",
           "help": {
             "online": "http://forum.cytron.com.my/"
           },
