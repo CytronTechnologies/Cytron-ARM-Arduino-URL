@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "cytron",
-      "maintainer": "Cytron",
+      "maintainer": "Cytron Technologies",
       "websiteURL": "http://www.cytron.com.my",
       "email": "support@cytron.com.my",
       "help": {
@@ -13,11 +13,11 @@
           "name": "Cytron ARM Boards",
           "architecture": "arm",
           "version": "1.0.0",
-          "category": "Cytron",
+          "category": "Cytron Technologies",
           "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/cytron-arm.tar.bz2",
           "archiveFileName": "cytron-arm.tar.bz2",
-          "checksum": "SHA-256:6E7130FE34CFC4327785BBBAA320B02992CA0165405772F6FA389ECDDCE6ECE3",
-          "size": "2711831",
+          "checksum": "SHA-256:1DCFAB61863EE4F2B652EBA532CFCF8B22896A1C00562EFCE294EEF825277620",
+          "size": "2711624",
           "help": {
             "online": "http://forum.cytron.com.my/"
           },
@@ -47,12 +47,25 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "archiveFileName": "arm-none-eabi-gcc.tar.bz2",
-              "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/arm-none-eabi-gcc.tar.bz2",
-              "checksum": "SHA-256:6F20D761ADBE17DD3FD47820C3837B2B1B7FB964C0DC4FF78D4D8F56B246AFC2",
-
-              "size": "74468122"
-            }
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
+              "checksum": "SHA-256:fd8c111c861144f932728e00abd3f7d1107e186eb9cd6083a54c7236ea78b7c2",
+              "size": "84537449"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-linux64.tar.gz",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-linux64.tar.gz",
+              "checksum": "SHA-256:d23f6626148396d6ec42a5b4d928955a703e0757829195fa71a939e5b86eecf6",
+              "size": "51395093"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-linux32.tar.gz",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-linux32.tar.gz",
+              "checksum": "SHA-256:ba1994235f69c526c564f65343f22ddbc9822b2ea8c5ee07dd79d89f6ace2498",
+              "size": "51029223"
+            }		
           ]
         },
         {
@@ -66,6 +79,22 @@
               "checksum": "SHA-256:E1D0BDF21F6B9A709783F49D7691ED0FF387B4AD457E7A6D5A86772AA9CC1F2C",
 
               "size": "469987"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "archiveFileName": "nulinkburn-linux64.tar.gz",
+              "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/nulinkburn-linux64.tar.gz",
+              "checksum": "SHA-256:085336DFC78011077342DC90374D175C20FA77B87057783C5809F2BE991F303F",
+
+              "size": "8264"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "archiveFileName": "nulinkburn-linux32.tar.gz",
+              "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/nulinkburn-linux32.tar.gz",
+              "checksum": "SHA-256:3E9CF27C12EA9D641C97AE2B706DB8430748C9DEFD991BD2968BA89CDA795F40",
+
+              "size": "7604"
             }
           ]
         }
