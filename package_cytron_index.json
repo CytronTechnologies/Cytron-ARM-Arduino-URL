@@ -53,6 +53,13 @@
               "size": "84537449"
             },
             {
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
+              "checksum": "SHA-256:3598ACF21600F17A8E4A4E8E193DC422B894DC09384759B270B2ECE5FACB59C2",
+              "size": "52518522"
+            },
+            {
               "host": "x86_64-pc-linux-gnu",
               "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-linux64.tar.gz",
               "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-linux64.tar.gz",
@@ -79,6 +86,13 @@
               "checksum": "SHA-256:E1D0BDF21F6B9A709783F49D7691ED0FF387B4AD457E7A6D5A86772AA9CC1F2C",
 
               "size": "469987"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "nulinkburn-mac.tar.gz",
+              "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/nulinkburn-mac.tar.gz",
+              "checksum": "SHA-256:3598ACF21600F17A8E4A4E8E193DC422B894DC09384759B270B2ECE5FACB59C2",
+              "size": "52518522"
             },
             {
               "host": "x86_64-pc-linux-gnu",
