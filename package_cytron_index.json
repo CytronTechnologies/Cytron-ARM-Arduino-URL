@@ -89,10 +89,10 @@
             },
             {
               "host": "x86_64-apple-darwin",
-              "archiveFileName": "nulinkburn-mac.tar.gz",
-              "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/nulinkburn-mac.tar.gz",
-              "checksum": "SHA-256:3598ACF21600F17A8E4A4E8E193DC422B894DC09384759B270B2ECE5FACB59C2",
-              "size": "52518522"
+              "archiveFileName": "nulinkburn-mac.tar.bz2",
+              "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-ARM-Arduino-URL/master/nulinkburn-mac.tar.bz2",
+              "checksum": "SHA-256:B1C63A62507B038157413E23387732083DDBF0C95AF1F093B49DC3726F2DE5F6",
+              "size": "19,743"
             },
             {
               "host": "x86_64-pc-linux-gnu",
